@@ -21,9 +21,9 @@ https://github.com/calabiyauspace/portfolio
 ```
 import math
 
-a = input("Введите a: ")
-b = input("Введите b: ")
-c = input("Введите c: ")
+a = int(input("Введите a: "))
+b = int(input("Введите b: "))
+c = int(input("Введите c: "))
 
 p = (a + b + c) / 2
 
