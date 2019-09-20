@@ -1,22 +1,22 @@
 ## Соколова Анна
 
-#### Компетенции в IT-сфере:
-* MS Office;
-* GIMP;
-* C;
-* Python.
+##### Компетенции в IT-сфере:
+* MS Office
+* GIMP
+* C
+* Python
 
-#### Ссылка на портфолио:
+##### Ссылка на портфолио:
 
 https://github.com/calabiyauspace/portfolio
 
-#### Mотивирующая картинка:
+##### Mотивирующая картинка:
 
 ![pic][sleepycowboi]
 
 [sleepycowboi]: https://pbs.twimg.com/media/EE4r3ZhUwAA-Hy8?format=png&name=small "sleepycowboi"
 
-#### Решение задачи:
+##### Решение задачи:
 
 ```
 import math
