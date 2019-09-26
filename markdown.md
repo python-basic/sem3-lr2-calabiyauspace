@@ -25,9 +25,9 @@ a = int(input("Введите a: "))
 b = int(input("Введите b: "))
 c = int(input("Введите c: "))
 
-p = (a + b + c) / 2
+def S():
+  p = (a + b + c) / 2
+  return math.sqrt(p * (p - a) * (p - b) * (p - c))
 
-S = math.sqrt(p * (p - a) * (p - b) * (p - c))
-
-print("Площадь треугольника: ", S)
+print("Площадь треугольника: ", S())
 ```
