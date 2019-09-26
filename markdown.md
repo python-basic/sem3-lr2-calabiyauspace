@@ -30,4 +30,13 @@ def S():
   return math.sqrt(p * (p - a) * (p - b) * (p - c))
 
 print("Площадь треугольника: ", S())
+
+#тест #1
+def test_S():
+    assert S() == 6, "S = 6"
+    #проверяем при a=3, b=4, c=5
+    
+if __name__ == "__main__":
+    test_S()
+    print("IT'S ALIVE")
 ```
