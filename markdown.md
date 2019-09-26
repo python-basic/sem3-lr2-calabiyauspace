@@ -18,7 +18,7 @@ https://github.com/calabiyauspace/portfolio
 
 ##### Решение задачи:
 
-```
+```python
 import math
 
 a = int(input("Введите a: "))
